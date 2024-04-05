@@ -83,15 +83,15 @@ Dataset:name:Asterella gracilis SWE	/uod/idr/filesets/idr0157-peters-bryophytes/
 Dataset:name:Asterella gracilis SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE/IMG_0009 Asterella gracilis (Mannia gracilis) habitat.ome.tiff
 Dataset:name:Asterella gracilis SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.tiff
 Dataset:name:Asterella gracilis SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE/IMG_0008 Asterella gracilis (Mannia gracilis) habitat.ome.tiff
-Dataset:name:Asterella gracilis SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_thallus_cross_section.ome.tiff
-Dataset:name:Asterella gracilis SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_habitat.ome.tiff
-Dataset:name:Asterella gracilis SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_stature.ome.tiff
-Dataset:name:Asterella gracilis SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_thallus_air_pore_anterior_view.ome.tiff
-Dataset:name:Asterella gracilis SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_ventral_scales.ome.tiff
-Dataset:name:Asterella gracilis SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_thallus_air_pore_cross_section.ome.tiff
-Dataset:name:Asterella gracilis SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_stature_ventral_side.ome.tiff
-Dataset:name:Asterella gracilis SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_voucher_specimen.ome.tiff
-Dataset:name:Asterella gracilis SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Asterella gracilis SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_thallus_cross_section.ome.tiff
+Dataset:name:Asterella gracilis SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_habitat.ome.tiff
+Dataset:name:Asterella gracilis SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_stature.ome.tiff
+Dataset:name:Asterella gracilis SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_thallus_air_pore_anterior_view.ome.tiff
+Dataset:name:Asterella gracilis SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_ventral_scales.ome.tiff
+Dataset:name:Asterella gracilis SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_thallus_air_pore_cross_section.ome.tiff
+Dataset:name:Asterella gracilis SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_stature_ventral_side.ome.tiff
+Dataset:name:Asterella gracilis SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_voucher_specimen.ome.tiff
+Dataset:name:Asterella gracilis SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Asterella gracilis SWE processed/asterella_gracilis_swe_stature_dorsal_side.ome.tiff
 Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE/IMG_0594-0683 Athalamia hyalina var. suecica stature.ome.tiff
 Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE/IMG_0684-0763 Athalamia hyalina var. suecica stature.ome.tiff
 Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE/IMG_1551-1650 Athalamia hyalina var. suecica thallus with air pore cross section (40x DIC).ome.tiff
@@ -157,16 +157,16 @@ Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters
 Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE/IMG_0008 Athalamia hyalina var. suecica habitat.ome.tiff
 Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE/IMG_0007 Athalamia hyalina var. suecica habitat.ome.tiff
 Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE/IMG_0006 Athalamia hyalina var. suecica habitat.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_detail.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_stature.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_habitat.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_stature_ventral_side.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_thallus_cross_section.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_thallus_air_pore_cross_section.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_thallus_air_pore_anterior_view.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_voucher_specimen.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_ventral_scales.ome.tiff
+Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_detail.ome.tiff
+Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_stature.ome.tiff
+Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_habitat.ome.tiff
+Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_stature_ventral_side.ome.tiff
+Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_thallus_cross_section.ome.tiff
+Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_thallus_air_pore_cross_section.ome.tiff
+Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_thallus_air_pore_anterior_view.ome.tiff
+Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_voucher_specimen.ome.tiff
+Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_ventral_scales.ome.tiff
 Dataset:name:Mannia fragrans SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE/IMG_1885-1984 Mannia fragrans ventral scales with oil cells (40x DIC).ome.tiff
 Dataset:name:Mannia fragrans SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE/IMG_2205-2304 Mannia fragrans thallus with air pore cross section (40x DIC).ome.tiff
 Dataset:name:Mannia fragrans SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE/IMG_2105-2204 Mannia fragrans thallus with air pore cross section (40x).ome.tiff
@@ -228,16 +228,16 @@ Dataset:name:Mannia fragrans SWE	/uod/idr/filesets/idr0157-peters-bryophytes/202
 Dataset:name:Mannia fragrans SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE/IMG_0011 Mannia fragrans habitat.ome.tiff
 Dataset:name:Mannia fragrans SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE/IMG_0008 Mannia fragrans habitat.ome.tiff
 Dataset:name:Mannia fragrans SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE/IMG_0005 Mannia fragrans voucher specimen.ome.tiff
-Dataset:name:Mannia fragrans SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20240220-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Mannia fragrans SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_stature_ventral_side.ome.tiff
-Dataset:name:Mannia fragrans SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_thallus_cross_section.ome.tiff
-Dataset:name:Mannia fragrans SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_stature.ome.tiff
-Dataset:name:Mannia fragrans SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_thallus_air_pore_anterior_view.ome.tiff
-Dataset:name:Mannia fragrans SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_thallus_air_pore_cross_section.ome.tiff
-Dataset:name:Mannia fragrans SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_ventral_scales_oelzellen.ome.tiff
-Dataset:name:Mannia fragrans SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_ventral_scales.ome.tiff
-Dataset:name:Mannia fragrans SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_habitat.ome.tiff
-Dataset:name:Mannia fragrans SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_voucher_specimen.ome.tiff
+Dataset:name:Mannia fragrans SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20240220-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Mannia fragrans SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_stature_ventral_side.ome.tiff
+Dataset:name:Mannia fragrans SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_thallus_cross_section.ome.tiff
+Dataset:name:Mannia fragrans SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_stature.ome.tiff
+Dataset:name:Mannia fragrans SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_thallus_air_pore_anterior_view.ome.tiff
+Dataset:name:Mannia fragrans SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_thallus_air_pore_cross_section.ome.tiff
+Dataset:name:Mannia fragrans SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_ventral_scales_oelzellen.ome.tiff
+Dataset:name:Mannia fragrans SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_ventral_scales.ome.tiff
+Dataset:name:Mannia fragrans SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_habitat.ome.tiff
+Dataset:name:Mannia fragrans SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Mannia fragrans SWE processed/mannia_fragrans_swe_voucher_specimen.ome.tiff
 Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE/IMG_0808-0897 Reboulia hemisphaerica subsp. hemisphaerica stature.ome.tiff
 Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE/IMG_0898-0987 Reboulia hemisphaerica subsp. hemisphaerica stature.ome.tiff
 Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE/IMG_0393-0482 Reboulia hemisphaerica subsp. hemisphaerica stature.ome.tiff
@@ -301,18 +301,18 @@ Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE	/uod/idr/filesets/i
 Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE/IMG_0009 Reboulia hemisphaerica subsp. hemisphaerica habitat.ome.tiff
 Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE/IMG_0008 Reboulia hemisphaerica subsp. hemisphaerica habitat.ome.tiff
 Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE/IMG_0005 Reboulia hemisphaerica subsp. hemisphaerica voucher specimen.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_stature.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_thallus_cross_section.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_detail.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_stature_ventral_side.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_ventral_scales_oelzellen.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_thallus_air_pore_cross_section.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_thallus_air_pore_anterior_view.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_habitat.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_ventral_scales.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_thallus_assimilation_lamellae_cross_section.ome.tiff
-Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_voucher_specimen.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_stature.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_thallus_cross_section.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_detail.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_stature_ventral_side.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_ventral_scales_oelzellen.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_thallus_air_pore_cross_section.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_thallus_air_pore_anterior_view.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_habitat.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_ventral_scales.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_thallus_assimilation_lamellae_cross_section.ome.tiff
+Dataset:name:Reboulia hemisphaerica subsp. hemisphaerica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Reboulia hemisphaerica subsp. hemisphaerica SWE processed/reboulia_hemisphaerica_ssp_hemisphaerica_swe_voucher_specimen.ome.tiff
 Dataset:name:Riccia beyrichiana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE/IMG_0725-0814 Riccia beyrichiana stature.ome.tiff
 Dataset:name:Riccia beyrichiana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE/IMG_0635-0724 Riccia beyrichiana stature.ome.tiff
 Dataset:name:Riccia beyrichiana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE/IMG_0543-0632 Riccia beyrichiana stature.ome.tiff
@@ -382,14 +382,14 @@ Dataset:name:Riccia beyrichiana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/
 Dataset:name:Riccia beyrichiana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE/IMG_0007 Riccia beyrichiana habitat.ome.tiff
 Dataset:name:Riccia beyrichiana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE/IMG_0006 Riccia beyrichiana habitat.ome.tiff
 Dataset:name:Riccia beyrichiana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE/IMG_0003 Riccia beyrichiana voucher specimen.ome.tiff
-Dataset:name:Riccia beyrichiana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_stature_ventral_side.ome.tiff
-Dataset:name:Riccia beyrichiana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_detail.ome.tiff
-Dataset:name:Riccia beyrichiana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia beyrichiana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_habitat.ome.tiff
-Dataset:name:Riccia beyrichiana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_stature.ome.tiff
-Dataset:name:Riccia beyrichiana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_thallus_cross_section.ome.tiff
-Dataset:name:Riccia beyrichiana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_spores.ome.tiff
-Dataset:name:Riccia beyrichiana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_voucher_specimen.ome.tiff
+Dataset:name:Riccia beyrichiana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_stature_ventral_side.ome.tiff
+Dataset:name:Riccia beyrichiana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_detail.ome.tiff
+Dataset:name:Riccia beyrichiana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia beyrichiana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_habitat.ome.tiff
+Dataset:name:Riccia beyrichiana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_stature.ome.tiff
+Dataset:name:Riccia beyrichiana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_thallus_cross_section.ome.tiff
+Dataset:name:Riccia beyrichiana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_spores.ome.tiff
+Dataset:name:Riccia beyrichiana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia beyrichiana SWE processed/riccia_beyrichiana_swe_voucher_specimen.ome.tiff
 Dataset:name:Riccia bifurca SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE/IMG_0263-0352 Riccia bifurca stature.ome.tiff
 Dataset:name:Riccia bifurca SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE/IMG_0173-0262 Riccia bifurca stature.ome.tiff
 Dataset:name:Riccia bifurca SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE/IMG_3047-3166 Riccia bifurca spores (40x).ome.tiff
@@ -449,16 +449,16 @@ Dataset:name:Riccia bifurca SWE	/uod/idr/filesets/idr0157-peters-bryophytes/2023
 Dataset:name:Riccia bifurca SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE/IMG_0007 Riccia bifurca habitat.ome.tiff
 Dataset:name:Riccia bifurca SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE/IMG_0008 Riccia bifurca habitat.ome.tiff
 Dataset:name:Riccia bifurca SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE/IMG_0002 Riccia bifurca voucher specimen.ome.tiff
-Dataset:name:Riccia bifurca SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_detail.ome.tiff
-Dataset:name:Riccia bifurca SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_stature_ventral_side.ome.tiff
-Dataset:name:Riccia bifurca SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia bifurca SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_stature.ome.tiff
-Dataset:name:Riccia bifurca SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_thallus_cross_section.ome.tiff
-Dataset:name:Riccia bifurca SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_thallus_epidermis_cross_section.ome.tiff
-Dataset:name:Riccia bifurca SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_thallus_epidermis_assimilation_lamellae_cross_section.ome.tiff
-Dataset:name:Riccia bifurca SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_habitat.ome.tiff
-Dataset:name:Riccia bifurca SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_spores.ome.tiff
-Dataset:name:Riccia bifurca SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_voucher_specimen.ome.tiff
+Dataset:name:Riccia bifurca SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_detail.ome.tiff
+Dataset:name:Riccia bifurca SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_stature_ventral_side.ome.tiff
+Dataset:name:Riccia bifurca SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia bifurca SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_stature.ome.tiff
+Dataset:name:Riccia bifurca SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_thallus_cross_section.ome.tiff
+Dataset:name:Riccia bifurca SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_thallus_epidermis_cross_section.ome.tiff
+Dataset:name:Riccia bifurca SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_thallus_epidermis_assimilation_lamellae_cross_section.ome.tiff
+Dataset:name:Riccia bifurca SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_habitat.ome.tiff
+Dataset:name:Riccia bifurca SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_spores.ome.tiff
+Dataset:name:Riccia bifurca SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia bifurca SWE processed/riccia_bifurca_swe_voucher_specimen.ome.tiff
 Dataset:name:Riccia canaliculata SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE/IMG_0503-0572 Riccia canaliculata stature.ome.tiff
 Dataset:name:Riccia canaliculata SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE/IMG_1361-1460 Riccia canaliculata thallus with air pores cross section (40x DIC).ome.tiff
 Dataset:name:Riccia canaliculata SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE/IMG_1661-1760 Riccia canaliculata thallus with air pores cross section (40x).ome.tiff
@@ -505,15 +505,15 @@ Dataset:name:Riccia canaliculata SWE	/uod/idr/filesets/idr0157-peters-bryophytes
 Dataset:name:Riccia canaliculata SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE/IMG_0008 Riccia canaliculata habitat.ome.tiff
 Dataset:name:Riccia canaliculata SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE/IMG_0009 Riccia canaliculata habitat.ome.tiff
 Dataset:name:Riccia canaliculata SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE/IMG_0004 Riccia canaliculata voucher specimen.ome.tiff
-Dataset:name:Riccia canaliculata SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_detail.ome.tiff
-Dataset:name:Riccia canaliculata SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_stature.ome.tiff
-Dataset:name:Riccia canaliculata SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_thallus_cross_section.ome.tiff
-Dataset:name:Riccia canaliculata SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_thallus_air_pore_cross_section.ome.tiff
-Dataset:name:Riccia canaliculata SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_ventral_scales.ome.tiff
-Dataset:name:Riccia canaliculata SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_habitat.ome.tiff
-Dataset:name:Riccia canaliculata SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_stature_ventral_side.ome.tiff
-Dataset:name:Riccia canaliculata SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia canaliculata SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_voucher_specimen.ome.tiff
+Dataset:name:Riccia canaliculata SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_detail.ome.tiff
+Dataset:name:Riccia canaliculata SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_stature.ome.tiff
+Dataset:name:Riccia canaliculata SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_thallus_cross_section.ome.tiff
+Dataset:name:Riccia canaliculata SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_thallus_air_pore_cross_section.ome.tiff
+Dataset:name:Riccia canaliculata SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_ventral_scales.ome.tiff
+Dataset:name:Riccia canaliculata SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_habitat.ome.tiff
+Dataset:name:Riccia canaliculata SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_stature_ventral_side.ome.tiff
+Dataset:name:Riccia canaliculata SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia canaliculata SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia canaliculata SWE processed/riccia_canaliculata_swe_voucher_specimen.ome.tiff
 Dataset:name:Riccia cavernosa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE/IMG_1121-1240 Riccia cavernosa spores (40x).ome.tiff
 Dataset:name:Riccia cavernosa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE/IMG_1721-1840 Riccia cavernosa spores (40x).ome.tiff
 Dataset:name:Riccia cavernosa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE/IMG_1001-1120 Riccia cavernosa spores (40x).ome.tiff
@@ -625,17 +625,17 @@ Dataset:name:Riccia cavernosa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20
 Dataset:name:Riccia cavernosa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE/IMG_0007 Riccia cavernosa habitat.ome.tiff
 Dataset:name:Riccia cavernosa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE/IMG_0006 Riccia cavernosa habitat.ome.tiff
 Dataset:name:Riccia cavernosa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE/IMG_0005 Riccia cavernosa voucher specimen.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_habitat.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_thallus_cross_section.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_stature.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_thallus_pores_anterior_view.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_stature_ventral_side.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_thallus_pores_cross_section.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_thallus_archegonium_cross_section.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_stature_detail.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_voucher_specimen.ome.tiff
-Dataset:name:Riccia cavernosa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_spores.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_habitat.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_thallus_cross_section.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_stature.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_thallus_pores_anterior_view.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_stature_ventral_side.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_thallus_pores_cross_section.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_thallus_archegonium_cross_section.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_stature_detail.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_voucher_specimen.ome.tiff
+Dataset:name:Riccia cavernosa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia cavernosa SWE processed/riccia_cavernosa_swe_spores.ome.tiff
 Dataset:name:Riccia ciliifera GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER/IMG_2692-2791 Riccia ciliifera thallus with epidermis and neck canal cells of the antheridium cross section (40x DIC).ome.tiff
 Dataset:name:Riccia ciliifera GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER/IMG_2492-2591 Riccia ciliifera thallus with epidermis end cells cross section (40x DIC).ome.tiff
 Dataset:name:Riccia ciliifera GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER/IMG_2392-2491 Riccia ciliifera thallus with epidermis end cells cross section (40x).ome.tiff
@@ -695,15 +695,15 @@ Dataset:name:Riccia ciliifera GER	/uod/idr/filesets/idr0157-peters-bryophytes/20
 Dataset:name:Riccia ciliifera GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER/IMG_0373 Riccia ciliifera stature.ome.tiff
 Dataset:name:Riccia ciliifera GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER/IMG_0013 Riccia ciliifera stature.ome.tiff
 Dataset:name:Riccia ciliifera GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER/IMG_0005 Riccia ciliifera voucher specimen.ome.tiff
-Dataset:name:Riccia ciliifera GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_stature.ome.tiff
-Dataset:name:Riccia ciliifera GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_stature_ventral_side.ome.tiff
-Dataset:name:Riccia ciliifera GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia ciliifera GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_thallus_cross_section.ome.tiff
-Dataset:name:Riccia ciliifera GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_thallus_epidermis_cross_section.ome.tiff
-Dataset:name:Riccia ciliifera GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_thallus_antheridium_cross_section.ome.tiff
-Dataset:name:Riccia ciliifera GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_habitat.ome.tiff
-Dataset:name:Riccia ciliifera GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_ventral_scales.ome.tiff
-Dataset:name:Riccia ciliifera GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_voucher_specimen.ome.tiff
+Dataset:name:Riccia ciliifera GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_stature.ome.tiff
+Dataset:name:Riccia ciliifera GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_stature_ventral_side.ome.tiff
+Dataset:name:Riccia ciliifera GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia ciliifera GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_thallus_cross_section.ome.tiff
+Dataset:name:Riccia ciliifera GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_thallus_epidermis_cross_section.ome.tiff
+Dataset:name:Riccia ciliifera GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_thallus_antheridium_cross_section.ome.tiff
+Dataset:name:Riccia ciliifera GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_habitat.ome.tiff
+Dataset:name:Riccia ciliifera GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_ventral_scales.ome.tiff
+Dataset:name:Riccia ciliifera GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera GER processed/riccia_ciliifera_hal_voucher_specimen.ome.tiff
 Dataset:name:Riccia ciliifera SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE/IMG_0493-0582 Riccia ciliifera stature.ome.tiff
 Dataset:name:Riccia ciliifera SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE/IMG_0583-0672 Riccia ciliifera stature.ome.tiff
 Dataset:name:Riccia ciliifera SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE/IMG_0403-0492 Riccia ciliifera stature.ome.tiff
@@ -758,15 +758,15 @@ Dataset:name:Riccia ciliifera SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20
 Dataset:name:Riccia ciliifera SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE/IMG_0006 Riccia ciliifera habitat.ome.tiff
 Dataset:name:Riccia ciliifera SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE/IMG_0007 Riccia ciliifera habitat.ome.tiff
 Dataset:name:Riccia ciliifera SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE/IMG_0004 Riccia ciliifera voucher specimen.ome.tiff
-Dataset:name:Riccia ciliifera SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_stature.ome.tiff
-Dataset:name:Riccia ciliifera SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_detail.ome.tiff
-Dataset:name:Riccia ciliifera SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_ventral_scales.ome.tiff
-Dataset:name:Riccia ciliifera SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_stature_ventral_side.ome.tiff
-Dataset:name:Riccia ciliifera SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_thallus_cross_section.ome.tiff
-Dataset:name:Riccia ciliifera SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia ciliifera SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_thallus_epidermis_cross_section.ome.tiff
-Dataset:name:Riccia ciliifera SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_habitat.ome.tiff
-Dataset:name:Riccia ciliifera SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_voucher_specimen.ome.tiff
+Dataset:name:Riccia ciliifera SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_stature.ome.tiff
+Dataset:name:Riccia ciliifera SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_detail.ome.tiff
+Dataset:name:Riccia ciliifera SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_ventral_scales.ome.tiff
+Dataset:name:Riccia ciliifera SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_stature_ventral_side.ome.tiff
+Dataset:name:Riccia ciliifera SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_thallus_cross_section.ome.tiff
+Dataset:name:Riccia ciliifera SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia ciliifera SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_thallus_epidermis_cross_section.ome.tiff
+Dataset:name:Riccia ciliifera SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_habitat.ome.tiff
+Dataset:name:Riccia ciliifera SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia ciliifera SWE processed/riccia_ciliifera_swe_voucher_specimen.ome.tiff
 Dataset:name:Riccia gothica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE/IMG_0516-0585 Riccia gothica stature.ome.tiff
 Dataset:name:Riccia gothica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE/IMG_0446-0515 Riccia gothica stature.ome.tiff
 Dataset:name:Riccia gothica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE/IMG_3904-4023 Riccia gothica spores (40x).ome.tiff
@@ -838,14 +838,14 @@ Dataset:name:Riccia gothica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/2023
 Dataset:name:Riccia gothica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE/IMG_0006 Riccia gothica habitat.ome.tiff
 Dataset:name:Riccia gothica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE/IMG_0007 Riccia gothica habitat.ome.tiff
 Dataset:name:Riccia gothica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE/IMG_0005 Riccia gothica voucher specimen.ome.tiff
-Dataset:name:Riccia gothica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_stature.ome.tiff
-Dataset:name:Riccia gothica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_thallus_cross_section.ome.tiff
-Dataset:name:Riccia gothica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_stature_ventral_side.ome.tiff
-Dataset:name:Riccia gothica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_habitat.ome.tiff
-Dataset:name:Riccia gothica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia gothica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_thallus_epidermis_cross_section.ome.tiff
-Dataset:name:Riccia gothica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_spores.ome.tiff
-Dataset:name:Riccia gothica SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_voucher_specimen.ome.tiff
+Dataset:name:Riccia gothica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_stature.ome.tiff
+Dataset:name:Riccia gothica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_thallus_cross_section.ome.tiff
+Dataset:name:Riccia gothica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_stature_ventral_side.ome.tiff
+Dataset:name:Riccia gothica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_habitat.ome.tiff
+Dataset:name:Riccia gothica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia gothica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_thallus_epidermis_cross_section.ome.tiff
+Dataset:name:Riccia gothica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_spores.ome.tiff
+Dataset:name:Riccia gothica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gothica SWE processed/riccia_gothica_swe_voucher_specimen.ome.tiff
 Dataset:name:Riccia gougetiana var. armatissima GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER/IMG_1724-1843 Riccia gougetiana var. armatissima spores (40x).ome.tiff
 Dataset:name:Riccia gougetiana var. armatissima GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER/IMG_1004-1123 Riccia gougetiana var. armatissima spores (40x).ome.tiff
 Dataset:name:Riccia gougetiana var. armatissima GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER/IMG_1844-1963 Riccia gougetiana var. armatissima spores (40x).ome.tiff
@@ -937,18 +937,18 @@ Dataset:name:Riccia gougetiana var. armatissima GER	/uod/idr/filesets/idr0157-pe
 Dataset:name:Riccia gougetiana var. armatissima GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER/IMG_0008 Riccia gougetiana var. armatissima habitat.ome.tiff
 Dataset:name:Riccia gougetiana var. armatissima GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER/IMG_0011 Riccia gougetiana var. armatissima habitat.ome.tiff
 Dataset:name:Riccia gougetiana var. armatissima GER	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER/IMG_0010 Riccia gougetiana var. armatissima habitat.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_thallus_stalked_bulbils.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_habitat.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_stature.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_detail.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_stature_ventral_side.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_thallus_cross_section.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_ventral_scales.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_thallus_archegonia_cross_section.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_thallus_epidermis_cross_section.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_spores.ome.tiff
-Dataset:name:Riccia gougetiana var. armatissima GER processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_voucher_specimen.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_thallus_stalked_bulbils.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_habitat.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_stature.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_detail.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_stature_ventral_side.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_thallus_cross_section.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_ventral_scales.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_thallus_archegonia_cross_section.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_thallus_epidermis_cross_section.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_spores.ome.tiff
+Dataset:name:Riccia gougetiana var. armatissima GER Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia gougetiana var. armatissima GER processed/riccia_gougetiana_var_armatissima_hal_voucher_specimen.ome.tiff
 Dataset:name:Riccia huebeneriana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE/IMG_2009-2128 Riccia huebeneriana spores (40x).ome.tiff
 Dataset:name:Riccia huebeneriana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE/IMG_2429-2528 Riccia huebeneriana thallus with epidermis and air pore anterior view (40x DIC).ome.tiff
 Dataset:name:Riccia huebeneriana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE/IMG_2329-2428 Riccia huebeneriana thallus with epidermis and air pore anterior view (40x).ome.tiff
@@ -1032,16 +1032,16 @@ Dataset:name:Riccia huebeneriana SWE	/uod/idr/filesets/idr0157-peters-bryophytes
 Dataset:name:Riccia huebeneriana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE/IMG_0006 Riccia huebeneriana habitat.ome.tiff
 Dataset:name:Riccia huebeneriana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE/IMG_0011 Riccia huebeneriana habitat.ome.tiff
 Dataset:name:Riccia huebeneriana SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE/IMG_0005 Riccia huebeneriana voucher specimen.ome.tiff
-Dataset:name:Riccia huebeneriana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_habitat.ome.tiff
-Dataset:name:Riccia huebeneriana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_detail.ome.tiff
-Dataset:name:Riccia huebeneriana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_stature.ome.tiff
-Dataset:name:Riccia huebeneriana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_stature_ventral_side.ome.tiff
-Dataset:name:Riccia huebeneriana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia huebeneriana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_thallus_air_pore_anterior_view.ome.tiff
-Dataset:name:Riccia huebeneriana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_thallus_air_pore_cross_section.ome.tiff
-Dataset:name:Riccia huebeneriana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_thallus_cross_section.ome.tiff
-Dataset:name:Riccia huebeneriana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_spores.ome.tiff
-Dataset:name:Riccia huebeneriana SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_voucher_specimen.ome.tiff
+Dataset:name:Riccia huebeneriana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_habitat.ome.tiff
+Dataset:name:Riccia huebeneriana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_detail.ome.tiff
+Dataset:name:Riccia huebeneriana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_stature.ome.tiff
+Dataset:name:Riccia huebeneriana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_stature_ventral_side.ome.tiff
+Dataset:name:Riccia huebeneriana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia huebeneriana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_thallus_air_pore_anterior_view.ome.tiff
+Dataset:name:Riccia huebeneriana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_thallus_air_pore_cross_section.ome.tiff
+Dataset:name:Riccia huebeneriana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_thallus_cross_section.ome.tiff
+Dataset:name:Riccia huebeneriana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_spores.ome.tiff
+Dataset:name:Riccia huebeneriana SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia huebeneriana SWE processed/riccia_huebeneriana_swe_voucher_specimen.ome.tiff
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0546-0615 Riccia sorocarpa stature.ome.tiff
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0476-0545 Riccia sorocarpa stature.ome.tiff
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0891-1010 Riccia sorocarpa spores (40x).ome.tiff
@@ -1108,16 +1108,16 @@ Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0009 Riccia sorocarpa location.ome.tiff
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0008 Riccia sorocarpa location.ome.tiff
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0003 Riccia sorocarpa voucher specimen.ome.tiff
-Dataset:name:Riccia sorocarpa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_habitat.ome.tiff
-Dataset:name:Riccia sorocarpa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_stature.ome.tiff
-Dataset:name:Riccia sorocarpa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_thallus_cross_section.ome.tiff
-Dataset:name:Riccia sorocarpa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_archegonium_neck_canal_cells.ome.tiff
-Dataset:name:Riccia sorocarpa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_thallus_epidermis_cross_section.ome.tiff
-Dataset:name:Riccia sorocarpa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_thallus_epidermis_anterior_view.ome.tiff
-Dataset:name:Riccia sorocarpa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia sorocarpa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_stature_ventral_side.ome.tiff
-Dataset:name:Riccia sorocarpa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_voucher_specimen.ome.tiff
-Dataset:name:Riccia sorocarpa SWE processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_spores.ome.tiff
+Dataset:name:Riccia sorocarpa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_habitat.ome.tiff
+Dataset:name:Riccia sorocarpa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_stature.ome.tiff
+Dataset:name:Riccia sorocarpa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_thallus_cross_section.ome.tiff
+Dataset:name:Riccia sorocarpa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_archegonium_neck_canal_cells.ome.tiff
+Dataset:name:Riccia sorocarpa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_thallus_epidermis_cross_section.ome.tiff
+Dataset:name:Riccia sorocarpa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_thallus_epidermis_anterior_view.ome.tiff
+Dataset:name:Riccia sorocarpa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia sorocarpa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_stature_ventral_side.ome.tiff
+Dataset:name:Riccia sorocarpa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_voucher_specimen.ome.tiff
+Dataset:name:Riccia sorocarpa SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE processed/riccia_sorocarpa_swe_spores.ome.tiff
 Dataset:name:Riccia subbifurca SWE1	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1/IMG_1183-1282 Riccia subbifurca thallus with assimilation lamellae and epidermis cross section (40x DIC).ome.tiff
 Dataset:name:Riccia subbifurca SWE1	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1/IMG_1081-1180 Riccia subbifurca thallus with assimilation lamellae and epidermis cross section (40x).ome.tiff
 Dataset:name:Riccia subbifurca SWE1	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1/IMG_1423-1492 Riccia subbifurca ventral scales (20x).ome.tiff
@@ -1137,13 +1137,13 @@ Dataset:name:Riccia subbifurca SWE1	/uod/idr/filesets/idr0157-peters-bryophytes/
 Dataset:name:Riccia subbifurca SWE1	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1/IMG_0501-0550 Riccia subbifurca stature dorsal side (Laowa 5.0x).ome.tiff
 Dataset:name:Riccia subbifurca SWE1	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1/IMG_0001 Riccia subbifurca voucher specimen.ome.tiff
 Dataset:name:Riccia subbifurca SWE1	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1/IMG_0009 Riccia sorocarpa habitat.ome.tiff
-Dataset:name:Riccia subbifurca SWE1 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_thallus_cross_section.ome.tiff
-Dataset:name:Riccia subbifurca SWE1 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_thallus_epidermis_cross_section.ome.tiff
-Dataset:name:Riccia subbifurca SWE1 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_habitat.ome.tiff
-Dataset:name:Riccia subbifurca SWE1 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_stature_ventral_side.ome.tiff
-Dataset:name:Riccia subbifurca SWE1 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia subbifurca SWE1 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_voucher_specimen.ome.tiff
-Dataset:name:Riccia subbifurca SWE1 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_ventral_scales.ome.tiff
+Dataset:name:Riccia subbifurca SWE1 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_thallus_cross_section.ome.tiff
+Dataset:name:Riccia subbifurca SWE1 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_thallus_epidermis_cross_section.ome.tiff
+Dataset:name:Riccia subbifurca SWE1 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_habitat.ome.tiff
+Dataset:name:Riccia subbifurca SWE1 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_stature_ventral_side.ome.tiff
+Dataset:name:Riccia subbifurca SWE1 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia subbifurca SWE1 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_voucher_specimen.ome.tiff
+Dataset:name:Riccia subbifurca SWE1 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE1 processed/riccia_subbifurca_swe1_ventral_scales.ome.tiff
 Dataset:name:Riccia subbifurca SWE2	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2/IMG_0174-0263 Riccia subbifurca stature.ome.tiff
 Dataset:name:Riccia subbifurca SWE2	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2/IMG_0264-0353 Riccia subbifurca stature.ome.tiff
 Dataset:name:Riccia subbifurca SWE2	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2/IMG_3843-3962 Riccia subbifurca spores (40x).ome.tiff
@@ -1205,12 +1205,12 @@ Dataset:name:Riccia subbifurca SWE2	/uod/idr/filesets/idr0157-peters-bryophytes/
 Dataset:name:Riccia subbifurca SWE2	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2/IMG_0005 Riccia subbifurca voucher specimen.ome.tiff
 Dataset:name:Riccia subbifurca SWE2	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2/IMG_0006 Riccia subbifurca habitat.ome.tiff
 Dataset:name:Riccia subbifurca SWE2	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2/IMG_0007 Riccia subbifurca habitat.ome.tiff
-Dataset:name:Riccia subbifurca SWE2 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_stature.ome.tiff
-Dataset:name:Riccia subbifurca SWE2 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_thallus_cross_section.ome.tiff
-Dataset:name:Riccia subbifurca SWE2 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_habitat.ome.tiff
-Dataset:name:Riccia subbifurca SWE2 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_stature_ventral_side.ome.tiff
-Dataset:name:Riccia subbifurca SWE2 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_thallus_epidermis_cross_section.ome.tiff
-Dataset:name:Riccia subbifurca SWE2 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_thallus_neck_canal_archegonium_cross_section.ome.tiff
-Dataset:name:Riccia subbifurca SWE2 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_stature_dorsal_side.ome.tiff
-Dataset:name:Riccia subbifurca SWE2 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_spores.ome.tiff
-Dataset:name:Riccia subbifurca SWE2 processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_voucher_specimen.ome.tiff
+Dataset:name:Riccia subbifurca SWE2 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_stature.ome.tiff
+Dataset:name:Riccia subbifurca SWE2 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_thallus_cross_section.ome.tiff
+Dataset:name:Riccia subbifurca SWE2 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_habitat.ome.tiff
+Dataset:name:Riccia subbifurca SWE2 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_stature_ventral_side.ome.tiff
+Dataset:name:Riccia subbifurca SWE2 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_thallus_epidermis_cross_section.ome.tiff
+Dataset:name:Riccia subbifurca SWE2 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_thallus_neck_canal_archegonium_cross_section.ome.tiff
+Dataset:name:Riccia subbifurca SWE2 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_stature_dorsal_side.ome.tiff
+Dataset:name:Riccia subbifurca SWE2 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_spores.ome.tiff
+Dataset:name:Riccia subbifurca SWE2 Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia subbifurca SWE2 processed/riccia_subbifurca_swe2_voucher_specimen.ome.tiff
