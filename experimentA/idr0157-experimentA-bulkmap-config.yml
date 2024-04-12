@@ -53,6 +53,10 @@ columns:
     clientname: Microscope Magnification
     include: true
 
+  - name: Comment [Image Description]
+    clientname: Image Description
+    include: true
+
 
   ######################################################################
   # mapr groups
