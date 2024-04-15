@@ -156,7 +156,6 @@ Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters
 Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE/IMG_0003 Athalamia hyalina var. suecica voucher specimen.ome.tiff
 Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE/IMG_0008 Athalamia hyalina var. suecica habitat.ome.tiff
 Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE/IMG_0007 Athalamia hyalina var. suecica habitat.ome.tiff
-Dataset:name:Athalamia hyalina var. suecica SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE/IMG_0006 Athalamia hyalina var. suecica habitat.ome.tiff
 Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_detail.ome.tiff
 Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_stature.ome.tiff
 Dataset:name:Athalamia hyalina var. suecica SWE Processed	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Athalamia hyalina var. suecica SWE processed/athalamia_hyalina_var_suecica_swe_habitat.ome.tiff
@@ -1102,8 +1101,6 @@ Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0086 Riccia sorocarpa stature.ome.tiff
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0031 Riccia sorocarpa stature.ome.tiff
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0029 Riccia sorocarpa stature.ome.tiff
-Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0006 Riccia sorocarpa habitat.ome.tiff
-Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0007 Riccia sorocarpa habitat.ome.tiff
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0010 Riccia sorocarpa location.ome.tiff
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0009 Riccia sorocarpa location.ome.tiff
 Dataset:name:Riccia sorocarpa SWE	/uod/idr/filesets/idr0157-peters-bryophytes/20230803-Globus/Riccia sorocarpa SWE/IMG_0008 Riccia sorocarpa location.ome.tiff
