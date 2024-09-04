@@ -1,0 +1,10 @@
+name: bf2raw_env
+channels:
+  - defaults
+  - conda-forge
+  - ome
+dependencies:
+  - awscli
+  - pip
+  - pip:
+    - ome2024-ngff-challenge

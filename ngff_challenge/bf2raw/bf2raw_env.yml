@@ -1,0 +1,11 @@
+name: bf2raw_env
+channels:
+  - defaults
+  - conda-forge
+  - ome
+dependencies:
+  - ome::bioformats2raw
+  - awscli
+  - pip
+  - pip:
+    - pyOpenSSL

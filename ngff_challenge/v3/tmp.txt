@@ -1,0 +1,11 @@
+ ome2024-ngff-challenge resave
+ --input-bucket=embassy
+ --input-endpoint=https://uk1s3.embassy.ebi.ac.uk
+ --input-anon "idr/zarr/v0.4/idr0157/Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr" "IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr"
+ --log info
+ --rocrate-organism=NCBI:txid122620
+ --rocrate-name="idr0157 Peters Bryophytes: IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr"
+ --rocrate-description="Estimating essential phenotypic and molecular traits from integrative biodiversity data"
+ --cc-by
+ --output-shards=1,3,1,1024,1024
+ --output-chunks=1,1,1,1024,1024
