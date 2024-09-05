@@ -7,9 +7,32 @@ process all_in_one {
   tuple val(dataset), path(imgfile)
 
   script:
-  def outfile = "${dataset}/${imgfile.baseName}.zarr"
   """
-  echo \"${outfile}\"
+  ncbi=`grep "$dataset|${imgfile.baseName}.tiff" ${params.organismfile} | cut -d \"|\" -f3`
+
+  mkdir in out
+  aws --profile embassy s3 cp --recursive --no-sign-request \
+  \"s3://${params.inbucket}/${dataset}/${imgfile.baseName}.zarr\" \
+  \"in/${dataset}/${imgfile.baseName}.zarr\"
+
+  ome2024-ngff-challenge resave \
+  \"in/${dataset}/${imgfile.baseName}.zarr\" \
+  \"out/${dataset}/${imgfile.baseName}.zarr\" \
+  --log debug \
+  --rocrate-organism=${ncbi} \
+  --rocrate-name=\"idr0157 Peters Bryophytes: ${imgfile.baseName}.zarr\" \
+  --rocrate-description=\"Estimating essential phenotypic and molecular traits from integrative biodiversity data\" \
+  --cc-by \
+  --output-shards=1,3,1,1024,1024 \
+  --output-chunks=1,1,1,1024,1024
+
+  cd out
+  aws --profile ${params.awsProfile} s3 sync \
+  \"${dataset}\" \
+  \"s3://${params.outbucket}/${dataset}\"
+
+  cd ..
+  rm -rf in out
   """
 }
 

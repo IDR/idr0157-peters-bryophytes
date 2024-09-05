@@ -1,0 +1,27 @@
+# Example workflow for one specific image:
+# Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr
+
+mkdir in out
+
+aws --profile embassy s3 cp --recursive --no-sign-request \
+"s3://idr/zarr/v0.4/idr0157/Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr" \
+"in/Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr"
+
+ome2024-ngff-challenge resave \
+"in/Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr" \
+"out/Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr" \
+--log debug \
+--rocrate-organism=NCBI:txid122620 \
+--rocrate-name="idr0157 Peters Bryophytes: IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr" \
+--rocrate-description="Estimating essential phenotypic and molecular traits from integrative biodiversity data" \
+--cc-by \
+--output-shards=1,3,1,1024,1024 \
+--output-chunks=1,1,1,1024,1024
+
+cd out
+aws --profile embassy s3 sync \
+"Asterella gracilis SWE" \
+"s3://idr/share/ome2024-ngff-challenge/idr0157/Asterella gracilis SWE"
+
+cd ..
+rm -rf in out
