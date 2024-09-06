@@ -7,6 +7,7 @@ process all_in_one {
   tuple val(dataset), path(imgfile)
 
   script:
+  def ncbi="NCBI:txid"
   """
   ncbi=`grep "$dataset|${imgfile.baseName}.tiff" ${params.organismfile} | cut -d \"|\" -f3`
 
@@ -16,7 +17,7 @@ process all_in_one {
   \"in/${dataset}/${imgfile.baseName}.zarr\"
 
   ome2024-ngff-challenge resave \
-  \"in/${dataset}/${imgfile.baseName}.zarr\" \
+  \"in/${dataset}/${imgfile.baseName}.zarr/0\" \
   \"out/${dataset}/${imgfile.baseName}.zarr\" \
   --log debug \
   --rocrate-organism=${ncbi} \

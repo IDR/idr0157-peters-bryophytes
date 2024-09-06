@@ -8,7 +8,7 @@ aws --profile embassy s3 cp --recursive --no-sign-request \
 "in/Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr"
 
 ome2024-ngff-challenge resave \
-"in/Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr" \
+"in/Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr/0" \
 "out/Asterella gracilis SWE/IMG_0005 Asterella gracilis (Mannia gracilis) voucher specimen.ome.zarr" \
 --log debug \
 --rocrate-organism=NCBI:txid122620 \
