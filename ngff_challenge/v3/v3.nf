@@ -19,7 +19,7 @@ process all_in_one {
   ome2024-ngff-challenge resave \
   \"in/${dataset}/${imgfile.baseName}.zarr/0\" \
   \"out/${dataset}/${imgfile.baseName}.zarr\" \
-  --log debug \
+  --log info \
   --rocrate-organism=${ncbi} \
   --rocrate-name=\"idr0157 Peters Bryophytes: ${imgfile.baseName}.zarr\" \
   --rocrate-description=\"Estimating essential phenotypic and molecular traits from integrative biodiversity data\" \
