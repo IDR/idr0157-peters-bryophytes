@@ -10,9 +10,9 @@ Study Type Term Source REF	EFO
 Study Type Term Accession	EFO_0000651																																
 Study Description	A reference dataset containing macroscopic and bright-field microscopic images of 16 specimens of thallose liverworts of biological soil crusts collected in Southern Sweden and Germany.																	
 Study Key Words	phenotypes	bryophytes	liverworts	bright-field microscopy	differential interphase contrast microscopy	macroscopy	biodiversity	marchantiales	ricciaceae	riccia	cleveaceae	clevea	athalamia	aytoniaceae	mannia	asterella	reboulia	morphology	anatomy	integrative taxonomy	chemotaxonomy	morphometry																											
-Study Organism	Mannia gracilis	Clevea hyalina	Mannia fragrans	Reboulia hemisphaerica	Riccia beyrichiana	Riccia bifurca	Riccia canaliculata	Riccia cavernosa	Riccia ciliifera	Riccia gothica	Riccia gougetiana	Riccia huebeneriana	Riccia sorocarpa	Riccia subbifurca									
-Study Organism Term Source REF	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon																																
-Study Organism Term Accession	122620	122615	179045	37395	122635	2779757	2779758	122636	71659	3108177	122638	122639	122646	1914413															
+Study Organism	Mannia gracilis	Clevea hyalina	Mannia fragrans	Reboulia hemisphaerica	Riccia beyrichiana	Riccia bifurca	Riccia canaliculata	Riccia cavernosa	Riccia ciliifera	Riccia gothica	Riccia huebeneriana	Riccia sorocarpa	Riccia subbifurca									
+Study Organism Term Source REF	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon																																
+Study Organism Term Accession	122620	122615	179045	37395	122635	2779757	2779758	122636	71659	3108177	122639	122646	1914413															
 Study Experiments Number	1																																
 Study External URL																																	
 Study BioImage Archive Accession	S-BIAD824																																	
